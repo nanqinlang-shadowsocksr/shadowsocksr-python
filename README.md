@@ -1,5 +1,6 @@
-## the backup&script  
-backuped by nanqinlang  
+## deployer script  
+powered by nanqinlang  
+`wget -N --no-check-certificate https://github.com/nanqinlang/shadowsocksr/releases/download/2.0/ssr_setup_2.0.sh && chmod +x ssr_setup_2.0.sh && bash ssr_setup_2.0.sh install`
 wiki：https://www.nanqinlang.com/shell-ssr_setup.html  
 releases：https://github.com/nanqinlang/shadowsocksr/releases
 ## memories
