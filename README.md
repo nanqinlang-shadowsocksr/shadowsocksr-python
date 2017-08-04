@@ -70,4 +70,4 @@ Bugs and Issues
 [macOS]:             https://github.com/shadowsocksr/ShadowsocksX-NG  
 [Travis CI]:         https://travis-ci.org/shadowsocksr/shadowsocksr  
 [Windows]:           https://github.com/shadowsocksr/shadowsocksr-csharp  
-[Wiki]:              https://github.com/breakwa11/shadowsocks-rss/wiki  
+[Wiki]:              https://github.com/shadowsocksrr/shadowsocks-rss/wiki 
