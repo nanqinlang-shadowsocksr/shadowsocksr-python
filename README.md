@@ -1,6 +1,6 @@
 ## installation script  
 powered by nanqinlang  
-`wget -N --no-check-certificate https://github.com/nanqinlang/shadowsocksr/releases/download/2.1/ssr_setup_2.1.sh && chmod +x ssr_setup_2.1.sh && bash ssr_setup_2.1.sh install`
+`wget -N --no-check-certificate https://github.com/nanqinlang-shadowsocksr/shadowsocksr-python/releases/download/2.2/ssr-setup_2.2.sh && chmod +x ssr_setup_2.2.sh && bash ssr_setup_2.2.sh install`
 wiki：https://www.nanqinlang.com/shell-ssr_setup.html  
 releases：https://github.com/nanqinlang/shadowsocksr/releases
 ## memories
