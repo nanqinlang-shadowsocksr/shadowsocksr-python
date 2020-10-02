@@ -1,4 +1,4 @@
-## installation script
+## installation script :
 [![build](https://github.com/SuzukazeAoran/SVG/blob/master/build%20passing.svg)](https://github.com/nanqinlang-shadowsocksr/shadowsocksr-python)
 [![language](https://github.com/SuzukazeAoran/SVG/blob/master/language-python-blue.svg)](https://github.com/nanqinlang-shadowsocksr/shadowsocksr-python)
 [![author](https://github.com/SuzukazeAoran/SVG/blob/master/author-nanqinlang-lightgrey.svg)](https://github.com/nanqinlang-shadowsocksr/shadowsocksr-python)
@@ -8,7 +8,7 @@ powered by nanqinlang
 `wget -N --no-check-certificate https://github.com/nanqinlang-shadowsocksr/shadowsocksr-python/releases/download/2.2/ssr-setup_2.2.sh && chmod +x ssr_setup_2.2.sh && bash ssr_setup_2.2.sh install`
 wiki：https://www.nanqinlang.com/shell-ssr_setup.html  
 releases：https://github.com/nanqinlang/shadowsocksr/releases
-## memories
+## memories :
 greatful thanks to @breakwa11
 even if what a hatred somebody for breakwa11, things those who did are indeed too much  
 still wish littlesister can hold a peaceful future, `thanks for your everything`  
