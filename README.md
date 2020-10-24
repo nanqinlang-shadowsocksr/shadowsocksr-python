@@ -8,13 +8,13 @@ powered by nanqinlang
 `wget -N --no-check-certificate https://github.com/nanqinlang-shadowsocksr/shadowsocksr-python/releases/download/2.2/ssr-setup_2.2.sh && chmod +x ssr_setup_2.2.sh && bash ssr_setup_2.2.sh install`
 wiki：https://www.nanqinlang.com/shell-ssr_setup.html  
 releases：https://github.com/nanqinlang/shadowsocksr/releases
-## memories
+## Memories :
 greatful thanks to @breakwa11
 even if what a hatred somebody for breakwa11, things those who did are indeed too much  
 still wish littlesister can hold a peaceful future, `thanks for your everything`  
 respect her choice, `do change if you wanna change`  
 there is no smoothing way, `to meet or not to meet, that's a fortune`
-## the original program
+## The Original Program :
 according to the remain legacy by breakwa11
 ### Server
 - Install
@@ -41,7 +41,7 @@ To stop:
 
 To monitor the log:
     ./tail.sh
-### client
+### Client
 * [Windows] / [macOS]
 * [Android] / [iOS]
 * [OpenWRT]
